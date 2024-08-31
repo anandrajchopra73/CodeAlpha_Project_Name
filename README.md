@@ -1,4 +1,4 @@
-# Calculator
+# Basic Calculator
 Calculator with HTML , CSS , JavaScript.
 A basic but fully functional calculator made with Html , css and JavaScript. 
 Used VS code as ide for this project.
